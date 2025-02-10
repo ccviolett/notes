@@ -47,7 +47,7 @@ export default defineUserConfig({
     }),
   ],
 
-  base: "/blog/",
+  base: "/pages/",
 
   lang: "zh-CN",
   title: "罗潇阳的博客",
