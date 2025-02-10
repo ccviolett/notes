@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "logo.png",
 
-  repo: "ccviolett/pages",
+  repo: "ccviolett/notes",
 
   docsDir: "docs",
 
